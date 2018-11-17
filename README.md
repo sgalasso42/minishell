@@ -8,10 +8,10 @@ C language
 ## Make it work
 - Run `./minishell`
 ## Builtins
-- echo [text...]
-- cd [path]
-- setenv [name] [value]
-- unsetenv [name]
-- exit
+- `echo [text ...]`
+- `cd [path]`
+- `setenv [name] [value]`
+- `unsetenv [name]`
+- `exit`
 ## Author
 Simon Galasso
